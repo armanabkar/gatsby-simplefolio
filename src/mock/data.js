@@ -22,7 +22,7 @@ export const aboutData = {
     'Web Developer - focusing on frontend (mostly SPAs; React/Vue/Angular) , I also write RESTful & GraphQL APIs. / Cross platform mobile app developer. ',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: '//www.linkedin.com/in/armanabkar/', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1XucbYwjg8BGRtkmh8qYbQ6P1l0Ud0knY/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // A Resume maker:
