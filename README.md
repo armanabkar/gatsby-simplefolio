@@ -18,7 +18,7 @@
 ⚡️ Easy site customization\
 ⚡️ Well organized documentation
 
-To view a demo example, **[click here](https://armanabkar.netlify.app/)**
+To view a demo example, **[click here](https://gaysbysimplefolio.netlify.app/)**
 
 ## How To Use 🔧
 
